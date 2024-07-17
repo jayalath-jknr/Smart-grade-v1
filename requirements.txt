@@ -8,3 +8,4 @@ pytesseract==0.3.10
 streamlit
 mistralai
 python-dotenv
+streamlit-ace
