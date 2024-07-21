@@ -9,3 +9,5 @@ streamlit
 mistralai
 python-dotenv
 streamlit-ace
+ llama-index
+ pymilvus
